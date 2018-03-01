@@ -1,4 +1,8 @@
 .navbar-header {
   background-color: #d35252;
 }
-
+.btn_more {
+  background-color: #e9ecef;
+  color: #d35252;
+  border: 1px solid #d35252;
+}
