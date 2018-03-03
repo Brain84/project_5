@@ -10,3 +10,6 @@
   background-color: #d35252;
   border: 1px solid #d35252;
 }
+.card_container {
+  height: 250px;
+}
