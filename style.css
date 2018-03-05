@@ -16,3 +16,7 @@
 .cd_img {
   height: 250px;
 }
+.form_container h5 {
+  text-align: center;
+  margin: 50px;
+}
