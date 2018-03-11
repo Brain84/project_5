@@ -26,4 +26,10 @@
 .input_form {
   border: 1px solid #d35252;
 }
-
+.btn_send {
+  background-color: #fff;
+  color: #d35252;
+  border: 1px solid #d35252;
+  display: block;
+  margin: auto;
+}
