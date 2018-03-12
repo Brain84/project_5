@@ -33,3 +33,15 @@
   display: block;
   margin: auto;
 }
+.btn_send:hover {
+  background-color: #d35252;
+  border: 1px solid #d35252;
+}
+.footer_copyright {
+  background-color: #d35252;
+  height: 100px;
+  line-height: 100px;
+}
+.footer_copyright p {
+  margin: 0;
+}
